@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/images/node.svg" alt="Candle Logo" width="10%" />
+  <img src="public/images/node.svg" alt="Node Logo" width="10%" />
 </p>
 
 <h1 align="center">Learn Node</h1>
