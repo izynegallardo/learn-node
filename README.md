@@ -7,7 +7,7 @@
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES%20Modules-F7DF1E?logo=javascript&logoColor=yellow" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-v25.9-339933?logo=Node.js&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-v25.9-339933?logo=Node.js&logoColor=green"/>
   <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" />
 </p>
 
